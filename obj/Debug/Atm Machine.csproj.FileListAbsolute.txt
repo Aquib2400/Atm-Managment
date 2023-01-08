@@ -1,0 +1,20 @@
+C:\Users\LENOVO\source\repos\Atm Machine\obj\Debug\Atm Machine.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Atm Machine\obj\Debug\Atm Machine.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\source\repos\Atm Machine\obj\Debug\Atm_Machine.Splash.resources
+C:\Users\LENOVO\source\repos\Atm Machine\obj\Debug\Atm_Machine.Login.resources
+C:\Users\LENOVO\source\repos\Atm Machine\obj\Debug\Atm_Machine.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\Atm Machine\obj\Debug\Atm Machine.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\Atm Machine\obj\Debug\Atm Machine.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Atm Machine\bin\Debug\Atm Machine.exe.config
+C:\Users\LENOVO\source\repos\Atm Machine\bin\Debug\Atm Machine.exe
+C:\Users\LENOVO\source\repos\Atm Machine\bin\Debug\Atm Machine.pdb
+C:\Users\LENOVO\source\repos\Atm Machine\obj\Debug\Atm_Machine.Account.resources
+C:\Users\LENOVO\source\repos\Atm Machine\obj\Debug\Atm_Machine.Main.resources
+C:\Users\LENOVO\source\repos\Atm Machine\obj\Debug\Atm Machine.exe
+C:\Users\LENOVO\source\repos\Atm Machine\obj\Debug\Atm Machine.pdb
+C:\Users\LENOVO\source\repos\Atm Machine\obj\Debug\Atm_Machine.Balance.resources
+C:\Users\LENOVO\source\repos\Atm Machine\obj\Debug\Atm_Machine.ChangePin.resources
+C:\Users\LENOVO\source\repos\Atm Machine\obj\Debug\Atm_Machine.Deposit.resources
+C:\Users\LENOVO\source\repos\Atm Machine\obj\Debug\Atm_Machine.FastCash.resources
+C:\Users\LENOVO\source\repos\Atm Machine\obj\Debug\Atm_Machine.ministatement.resources
+C:\Users\LENOVO\source\repos\Atm Machine\obj\Debug\Atm_Machine.Withdraw.resources
